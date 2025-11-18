@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mysql2": "^3.15.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11",
+    "y": "^0.3.2"
+  },
+  "name": "index.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ezequiel",
+  "license": "ISC",
+  "description": ""
+}
